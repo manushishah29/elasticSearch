@@ -1,7 +1,7 @@
 package com.example.elasticSearch.controller;
 
 import com.example.elasticSearch.entity.Student;
-import com.example.elasticSearch.repository.ElasticSearchQuery;
+import com.example.elasticSearch.service.ElasticSearchQuery;
 import org.elasticsearch.action.search.SearchResponse;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;

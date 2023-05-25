@@ -1,4 +1,4 @@
-package com.example.elasticSearch.repository;
+package com.example.elasticSearch.service;
 
 import com.example.elasticSearch.entity.Student;
 import com.google.gson.Gson;
